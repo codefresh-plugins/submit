@@ -21,6 +21,8 @@
 { "name" : "send-sms", "url": "https://github.com/codefresh-contrib/send-sms" },
 { "name" : "azure-build-plugin", "url": "https://github.com/codefresh-contrib/azure-build-plugin" },
 { "name" : "cf-deploy-dcos", "url": "https://github.com/codefresh-contrib/cf-deploy-dcos" },
+{ "name" : "test1", "url": "https://github.com/alex-codefresh/test-plugin-submit" },
+{ "name" : "test2", "url": "https://github.com/alex-codefresh/dummy-cf-step" },
 { "name" : "cf-run-jenkins-jobs", "url": "https://github.com/codefresh-contrib/cf-run-jenkins-jobs" },
 { "name" : "cfstep-gitclonerssh", "url": "https://github.com/codefresh-contrib/cfstep-gitclonerssh" },
 { "name" : "cfstep-gitsubmodules", "url": "https://github.com/codefresh-contrib/cfstep-gitsubmodules" },
