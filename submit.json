@@ -22,7 +22,7 @@
 { "name" : "azure-build-plugin", "url": "https://github.com/codefresh-contrib/azure-build-plugin" },
 { "name" : "cf-deploy-dcos", "url": "https://github.com/codefresh-contrib/cf-deploy-dcos" },
 { "name" : "cf-run-jenkins-jobs", "url": "https://github.com/codefresh-contrib/cf-run-jenkins-jobs" },
-{ "name" : "cfstep-gitclonerssh", "url": "https://github.com/codefresh-contrib/cfstep-gitclonerssh" },
+{ "name" : "cfstep-gitclonerssh", "url": "https://github.com/alex-codefresh/TestRepo" },
 { "name" : "cfstep-gitsubmodules", "url": "https://github.com/codefresh-contrib/cfstep-gitsubmodules" },
 { "name" : "sendgridplugin", "url": "https://github.com/codefresh-contrib/sendgridplugin" },
 { "name" : "twistlock-scanner", "url": "https://github.com/codefresh-contrib/cf-twistlock"},
