@@ -6,7 +6,7 @@
 { "name" : "import-image", "url": "https://github.com/codefresh-contrib/cf-import-image" },
 { "name" : "kompose", "url": "https://github.com/codefresh-contrib/cf-kompose-plugin" },
 { "name" : "aqua-scan", "url": "https://github.com/codefresh-contrib/cfstep-aqua" },
-{ "name" : "makisu", "url": "https://github.com/codefresh-contrib/cfstep-makisu" }, 
+{ "name" : "makisu", "url": "https://github.com/codefresh-contrib/cfstep-makisu" },
 { "name" : "paclair", "url": "https://github.com/codefresh-contrib/cfstep-paclair" },
 { "name" : "docker-service", "url": "https://github.com/codefresh-contrib/docker-service" },
 { "name" : "gitter-notifier", "url": "https://github.com/codefresh-contrib/gitter-notifier" },
@@ -37,4 +37,5 @@
 { "name" : "scp-plugin", "url" : "https://github.com/codefresh-io/scp-plugin"},
 { "name" : "webhook-plugin", "url" : "https://github.com/codefresh-io/webhook-plugin"},
 { "name" : "cfstep-codecommit", "url" : "https://github.com/codefresh-contrib/cfstep-codecommit"},
-{ "name" : "cfstep-msteams-notifier", "url" : "https://github.com/codefresh-contrib/cfstep-msteams-notifier"}]
+{ "name" : "cfstep-msteams-notifier", "url" : "https://github.com/codefresh-contrib/cfstep-msteams-notifier"},
+{ "name" : "backblaze-b2", "url" : "https://github.com/codefresh-plugins/backblaze-b2"}]
