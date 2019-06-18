@@ -38,4 +38,5 @@
 { "name" : "webhook-plugin", "url" : "https://github.com/codefresh-io/webhook-plugin"},
 { "name" : "cfstep-codecommit", "url" : "https://github.com/codefresh-contrib/cfstep-codecommit"},
 { "name" : "cfstep-msteams-notifier", "url" : "https://github.com/codefresh-contrib/cfstep-msteams-notifier"},
-{ "name" : "backblaze-b2", "url" : "https://github.com/andrii-codefresh/backblaze-b2"}]
+{ "name" : "backblaze-b2", "url" : "https://github.com/andrii-codefresh/backblaze-b2"},
+{ "name" : "cf-azure-files-plugin", "url" : "https://github.com/codefresh-io/cf-azure-files-plugin"}]
